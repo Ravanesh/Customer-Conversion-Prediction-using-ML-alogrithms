@@ -19,3 +19,5 @@ Features:
 
 Output variable (desired target):
 ●	y - has the client subscribed to the insurance?
+
+Applying all ML alogrithms and evaluate the model with the metrics
